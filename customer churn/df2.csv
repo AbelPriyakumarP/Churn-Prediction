@@ -1,0 +1,25 @@
+0
+state
+account length
+area code
+international plan
+voice mail plan
+total day minutes
+total day calls
+total day charge
+total eve minutes
+total eve calls
+total eve charge
+total night minutes
+total night calls
+total night charge
+total intl minutes
+total intl charge
+churn
+vmail_binned
+log_total_intl_calls
+customer_service_calls_binned
+total_day_charge_per_minute
+total_eve_charge_per_minute
+total_night_charge_per_minute
+total_intl_charge_per_minute
